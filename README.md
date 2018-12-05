@@ -1,5 +1,5 @@
 # GWL
-Classification of European Weather Pattern (Hess and Brezowsky Grosswetterlagen)
+Classification of European Weather Pattern (Hess and Brezowsky Grosswetterlagen) based on machine learning.
 
 Prerequisites
 ---
